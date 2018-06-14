@@ -1,0 +1,14 @@
+{
+  "name": "front-end-frameworks-2018-presentation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "kc-serve --theme black --highlight darkula -o"
+  },
+  "author": "Nico Jansen <jansennico@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@infosupport/kc-cli": "^2.3.6"
+  }
+}

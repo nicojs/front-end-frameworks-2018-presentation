@@ -1,0 +1,55 @@
+.reveal .compact {
+    font-size: .8em;
+}
+
+.reveal .compact h3 {
+    font-size: 1em;
+    margin-bottom: 10px;
+}
+
+.reveal .compact p {
+    margin: 10px 0;
+    line-height: 1.1;
+}
+
+.reveal .reference {
+    font-size: .5em;
+    opacity: .5;
+}
+
+.reveal h1, .reveal h2, .reveal h3, th {
+    color: #f1c40f;
+}
+
+.reveal td {
+    color: #fff;
+}
+
+.reveal table td, .reveal table th {
+    border-bottom-color: #f1c40f;
+}
+
+.reveal *:not(pre)>code {
+    font-family: consolas;
+    text-transform: none;
+    background-color: rgba(255, 255, 255, .1);
+    border-radius: 5px;
+    color: rgb(255, 244, 90);
+    font-size: .9em;
+}
+
+.reveal pre.compact {
+    font-size: .4em;
+}
+
+.reveal pre.stretch {
+    width: 100%;
+}
+
+ul.no-list {
+    margin: 0;
+}
+
+.no-list li {
+    list-style-type: none;
+}
