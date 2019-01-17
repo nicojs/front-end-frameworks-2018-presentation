@@ -63,7 +63,7 @@ angular.module('myApp', []).controller('calculator', function($scope){
 
 <!--.element class="compact"-->
 
-https://www.w3schools.com/code/tryit.asp?filename=FSA4657H3LS7 <!-- .element target="_blank" class="reference" -->
+https://www.w3schools.com/code/tryit.asp?filename=FZ8HR4LY7B8N <!-- .element target="_blank" class="reference" -->
 
 ---
 
@@ -72,5 +72,5 @@ https://www.w3schools.com/code/tryit.asp?filename=FSA4657H3LS7 <!-- .element tar
 * Does not scale to enterprise big applications
     * Dramatic performance degradation 
     * No lazy loading
-* Mine field of bad practices
+* Minefield of bad practices
 * Does not play nice with other frameworks

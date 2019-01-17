@@ -25,6 +25,21 @@ img.logo {
     max-width: 200px;
 }
 
+.img-rounded {
+    border-radius: 10px;
+}
+
+.img-responsive-50 {
+    width: 50%;
+}
+.img-responsive-25 {
+    width: 25%;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
 
 .reveal section img.logo-wide {
     max-height: 200px;

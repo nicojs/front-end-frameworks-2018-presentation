@@ -4,8 +4,8 @@
 
 * Open source framework by BlueSpire
 * Focus on simplicity
-* Enterprise license is coming
-    * Focus on enterprise
+* Focus on enterprise
+  * Enterprise license
 * TypeScript out-of-the box
 
 ---
@@ -35,7 +35,7 @@ export class Home {
 
 <!-- .element class="compact" -->
 
-https://stackblitz.com/edit/aurelia-base-gync7k?file=home.js  <!-- .element target="_blank" class="reference" -->
+https://codesandbox.io/s/0yj7yz61yp  <!-- .element target="_blank" class="reference" -->
 
 ---
 

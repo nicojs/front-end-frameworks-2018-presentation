@@ -37,7 +37,7 @@ export class CalculatorComponent  {
 
 <!-- .element class="compact" -->
 
-https://angular-eqdand.stackblitz.io
+https://stackblitz.com/edit/angular-eqdand
 <!-- .element target="_blank" class="reference" -->
 
 ---
@@ -46,7 +46,7 @@ https://angular-eqdand.stackblitz.io
 
 A browser doesn't understand TypeScript
 
-* TypeScript compilation -> Bundling -> Serve
+* TypeScript compilation ➡ Bundling ➡ Serve
 * Usually done with Webpack
 * Tests can be done with Protractor and Karma
 
@@ -91,7 +91,8 @@ import { platformNativeScriptDynamic } from "nativescript-angular/platform";
 
 import { AppModule } from "./app.module";
 
-platformNativeScriptDynamic({ createFrameOnBootstrap: true }).bootstrapModule(AppModule);
+platformNativeScriptDynamic({ createFrameOnBootstrap: true })
+  .bootstrapModule(AppModule);
 ```
 
 <!-- .element class="compact fragment" data-fragment-index="0" -->

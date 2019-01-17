@@ -1,4 +1,4 @@
-## Polymer
+## Polymer Project
 
 ![polymer](/img/polymer.svg) <!-- .element class="emblem logo-emblem" -->
 
@@ -61,6 +61,21 @@ Polymer is counter-reaction to frameworks like React and Angular
 * Polymer 3: ES6 syntax with ES Modules
 
 Big changes in each major release so far
+
+---
+
+### Future
+
+<div style="display: flex">
+  <div style="width: 50%">
+    <img alt="litElement" src="/img/litElement.png">
+  </div>
+  <div style="width: 50%">
+    <img alt="lit-html" src="/img/lit-html.png">
+  </div>
+</div>
+
+Polymer is in a state of limbo
 
 ---
 

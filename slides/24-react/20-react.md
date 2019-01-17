@@ -42,7 +42,7 @@ class App extends Component {
 
 <!--.element class="compact stretch"-->
 
-https://stackblitz.com/edit/react-drm3v1 <!--.element target="_blank" class="reference"-->
+https://stackblitz.com/edit/react-vynbxr <!--.element target="_blank" class="reference"-->
 
 ---
 
@@ -50,11 +50,13 @@ https://stackblitz.com/edit/react-drm3v1 <!--.element target="_blank" class="ref
 
 A browser doesn't understand JSX
 
-* JSX compilation -> to ES5 -> Bundling -> Serve
+* JSX compilation ➡ to ES5 ➡ Bundling ➡ Serve
 * Usually done with Webpack
 * Tests are done with [Jest](https://www.npmjs.com/package/jest) <!-- .element target="_blank" -->
 
-There are helpers scripts that help you: [create-react-app](https://www.npmjs.com/package/create-react-app) <!-- .element target="_blank" -->
+There are helpers scripts that help you:
+
+[create-react-app](https://www.npmjs.com/package/create-react-app) <!-- .element target="_blank" -->
 
 ---
 
@@ -80,3 +82,6 @@ React is immensely popular!
 
 * It's Facebook... 
 * Steep learning curve
+* History of restrictive license  
+
+https://medium.freecodecamp.org/facebook-just-changed-the-license-on-react-heres-a-2-minute-explanation-why-5878478913b2 <!-- .element target="_blank" class="reference" -->

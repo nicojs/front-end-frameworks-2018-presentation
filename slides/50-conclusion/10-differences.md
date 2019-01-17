@@ -36,7 +36,7 @@
             <td>View-layer</td>
             <td>View-layer</td>
             <td>HTML Specification</td>
-            <td>Business logic</td>
+            <td>Enterprise</td>
         </tr>
         <tr>
             <th>Releases</th>
