@@ -18,8 +18,8 @@
 
 ### JQuery to the rescue!
 
-* Add event
-* Use css selectors to select elements
+* Selecting elements `$('.btn')`
+* Event handlers `.on('click', /*...*/)`
 * Iterate arrays
 * 90% adoption world wide!
 * Separation of behavior, structure and design
@@ -40,7 +40,7 @@
 ```
 
 ```js
-$(document).ready(function(){
+$(document).ready(function() {
     $('input[type=submit]').click(function(){
         $('input[name=c]').val(
         	parseInt($('input[name=b]').val()) + parseInt($('input[name=a]').val()));

@@ -51,7 +51,7 @@ http://www.angularjswiki.com/angularjs/history-of-angularjs/ <!-- .element targe
 <!--.element class="compact"-->
 
 ```js
-angular.module('myApp', []).controller('calculator', function($scope){
+angular.module('myApp', []).controller('calculator', function($scope) {
 	$scope.a = 0;
     $scope.b = 0;
     $scope.calculate = function() {
@@ -69,8 +69,8 @@ https://www.w3schools.com/code/tryit.asp?filename=FZ8HR4LY7B8N <!-- .element tar
 
 ### AngularJS problem
 
-* Does not scale to enterprise big applications
-    * Dramatic performance degradation 
+* Scaling to big applications
+    * Dramatic performance 
     * No lazy loading
 * Minefield of bad practices
 * Does not play nice with other frameworks

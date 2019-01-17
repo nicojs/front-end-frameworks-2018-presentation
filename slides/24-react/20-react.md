@@ -5,7 +5,7 @@
 * Facebook
 * Introduced in 2013
 * JSX - A JavaScript extension
-    * Although you can use TSX (TypeScript)
+    * You can use TSX (TypeScript)
 * Focus on view
 
 ---

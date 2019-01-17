@@ -51,7 +51,7 @@ Vue.component('calculator', {
 
 <!-- .element class="compact" -->
 
-https://codepen.io/nicojs/project/editor/AnVLrb  <!--.element class="reference" target="_blank"-->
+https://www.w3schools.com/code/tryit.asp?filename=FZ0V9ATQOD5T  <!--.element class="reference" target="_blank"-->
 
 ---
 
